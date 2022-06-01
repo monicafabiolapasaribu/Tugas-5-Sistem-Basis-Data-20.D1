@@ -11,7 +11,7 @@
 
 2.Membuat akses untuk database
 ![image](https://user-images.githubusercontent.com/101724604/171356951-ae82593e-977a-4c8f-ac22-18995807e34a.png)
-
+![image](https://user-images.githubusercontent.com/101724604/171370074-75eac640-9a89-445c-b862-9541cd1b75cd.png)
 
 Output nya:
 ![image](https://user-images.githubusercontent.com/101724604/171357432-feef3cbe-e262-4eb0-8e91-00deaa6ba2be.png)
