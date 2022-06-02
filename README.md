@@ -15,7 +15,7 @@
 ### Output nya:
 ![image](https://user-images.githubusercontent.com/101724604/171357432-feef3cbe-e262-4eb0-8e91-00deaa6ba2be.png)
 
-### 3.Membuat Database dari user pasien
+### 3.Membuat Database dari users
 ![image](https://user-images.githubusercontent.com/101724604/171358093-e4f831e9-f309-4133-a5a9-0ce3e04fa310.png)
 ![image](https://user-images.githubusercontent.com/101724604/171370074-75eac640-9a89-445c-b862-9541cd1b75cd.png)
 
@@ -30,11 +30,11 @@
 ![image](https://user-images.githubusercontent.com/101724604/171359465-99737259-6c1a-4f47-acc0-3d584fc3f369.png)
 
 ### 5. Sebuah Database dari dokter
-![image](https://user-images.githubusercontent.com/101724604/171359725-879fec2d-6133-4703-a77d-200beb20bb11.png)
-![image](https://user-images.githubusercontent.com/101724604/171360523-f0413ad8-8a5e-4f6b-b37d-d4ba00918ccc.png)
+![image](https://user-images.githubusercontent.com/101724604/171561814-d44b1939-cc89-455e-95eb-56ad387fc50b.png)
+![image](https://user-images.githubusercontent.com/101724604/171562043-6fb698e2-9654-4c0f-b20a-4f5a1a5fdff6.png)
 
 ### Output nya:
-![image](https://user-images.githubusercontent.com/101724604/171360930-fdd2d8a3-7d89-4d26-ad23-2a3ada32e35f.png)
+![image](https://user-images.githubusercontent.com/101724604/171561650-94874aaf-df7a-4307-84c5-4bf3814db9ac.png)
 
 ### 6. Sebuah Database dari berobat
 ![image](https://user-images.githubusercontent.com/101724604/171362818-ab3f99be-10f7-44b8-830c-0d6a31cb9b74.png)
