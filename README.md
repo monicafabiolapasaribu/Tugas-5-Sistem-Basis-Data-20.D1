@@ -37,7 +37,7 @@
 ![image](https://user-images.githubusercontent.com/101724604/171561650-94874aaf-df7a-4307-84c5-4bf3814db9ac.png)
 
 ### 6. Sebuah Database dari berobat
-![image](https://user-images.githubusercontent.com/101724604/171362818-ab3f99be-10f7-44b8-830c-0d6a31cb9b74.png)
+![image](https://user-images.githubusercontent.com/101724604/171562530-e085a0ad-37b8-4bfc-8fcc-2180532b0a65.png)
 ![image](https://user-images.githubusercontent.com/101724604/171362370-4f4ec3bb-8985-426d-a302-d2c3fd79fc03.png)
 
 ### Output nya:
